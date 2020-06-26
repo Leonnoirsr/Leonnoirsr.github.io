@@ -1,11 +1,11 @@
 # Site settings
 author: Leon Huggins
-title: 
+title: My Flatiron Experience
 header-img: img/home-bg.png
 email: huggins.leon@gmail.com
 copyright_name: Leon Huggins
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Leon Huggins Flatiron Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Leonnoirsr
